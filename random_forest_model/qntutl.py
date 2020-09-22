@@ -6,6 +6,8 @@ import iexfinance.stocks as iex
 import nsepy
 #Attention!
 #yfiance, iexfiance, nsepy could be installed easily using pip(Terminal, linux system)
+#______-owner of API ACCOUNTS GIVEN BELOW: Zichun Wang______________________________________________-
+
 
 def get_quantinsti_api_key(key='KrAF9Qe7Gc7DSQe5VexZ'):
     if key=='None':
