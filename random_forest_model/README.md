@@ -8,6 +8,10 @@ to gather stock data easily.
 Please read both  two files carefully and install the package required if error given when you run my code.
  Register and use your own API, if possible.
  
- API owner is Zichun Wang.
+ Update: Sep 22, 11 am, Los,Angeles
+ All API accounts' owner is Zichun Wang.
+ I add a code to export data into a xlsx file in ver2.
+ 
+ 
  
  
