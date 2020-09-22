@@ -10,7 +10,7 @@ Please read both  two files carefully and install the package required if error 
  *Update*: Sep 22, 11 am, Los,Angeles
  
  All API accounts' owner is Zichun Wang.
- I add a code to export data into a xlsx file in ver2.
+ I update the ipynb file so that we could export data from the ipynb into a xlsx file in ver2 which is located at the local directory(linux).
  
  
  
