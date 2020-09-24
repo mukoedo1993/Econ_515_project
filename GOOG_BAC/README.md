@@ -1,3 +1,9 @@
 
 **Target:**
-We will analyze GOOG and BAC(ticker given in yahoo finance), ranging from 2000-09-24 to 2020-09-24, from yahoo finance api(at 2:34pm,sep,24th,utc-8:00)
+GOOG_ver2.xlsx: data from 2010 to 2020
+BAC_ver1.xlsx: data from 2000 to 2020
+GOOG_FOA_ver1.xlsx: including FOA for open and closed price<br />
+BAC_FOA_ver1.xlsx: including FOA for open and closed price<br />
+ver2.ipynb: please read the codes and markdown parts carefully.
+
+
