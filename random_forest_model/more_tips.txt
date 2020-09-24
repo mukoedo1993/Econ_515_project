@@ -2,3 +2,7 @@ random_stateint or RandomState, default=None
 Controls both the randomness of the bootstrapping of the samples used when building trees (if bootstrap=True) and the sampling of the features to consider when looking for the best split at each node (if max_features < n_features). 
 rolling()
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rolling.html
+np.where()
+https://numpy.org/doc/stable/reference/generated/numpy.where.html
+data.dropna()
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html
