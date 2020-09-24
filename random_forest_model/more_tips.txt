@@ -6,3 +6,5 @@ np.where()
 https://numpy.org/doc/stable/reference/generated/numpy.where.html
 data.dropna()
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html
+data.shift()
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.shift.html
