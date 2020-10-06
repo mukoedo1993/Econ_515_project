@@ -14,3 +14,9 @@ https://www.machinelearningplus.com/time-series/augmented-dickey-fuller-test/
 https://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.adfuller.html
 ~its critical value table:
 https://www.real-statistics.com/statistics-tables/augmented-dickey-fuller-table/
+
+
+
+?????
+
+https://stackoverflow.com/questions/11479064/multiple-linear-regression-in-python
